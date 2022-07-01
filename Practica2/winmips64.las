@@ -1,0 +1,1 @@
+C:\Users\laura\OneDrive\Documentos\UdL\2N CURS\ARQUITECTURA_DE_COMPUTADORS\Arquitectura_de_computadors\Practica2\calcul_serie_delay.s
